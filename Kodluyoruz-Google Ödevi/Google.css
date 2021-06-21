@@ -1,0 +1,32 @@
+.google-logo {
+    text-align: center;
+}
+
+.search {
+    text-align: center;
+}
+
+.search-bar {
+    width: 400px;
+}
+
+.footer-details {
+    background-color:#70CCC2 ;
+    height: 120px;
+    margin-left: 200px;
+    margin-right: 100px;
+}
+
+.box-one {
+    margin-left: 200px;
+}
+
+.box-two {
+    text-align: center;
+    margin-right: 120px;
+}
+
+.box-three {
+    margin-left:1200px;
+}
+
