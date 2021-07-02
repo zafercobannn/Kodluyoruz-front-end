@@ -1,0 +1,30 @@
+.img-logo {
+    margin-top: 20px;
+    margin-left: 800px;
+    height: 50px;
+}
+
+.nav-btn {
+    margin-left: 1400px;
+    margin-bottom: 100px;
+}
+
+.home-page {
+    margin-left: 800px;
+    margin-right: 1000px;
+    margin-top: 20px;
+}
+
+.login-page {
+    text-align: center;
+}
+
+.register-page {
+    text-align: center;
+    color: darkblue;
+}
+
+.giris-yap {
+    width: 100px;
+    height: 30px;
+}
