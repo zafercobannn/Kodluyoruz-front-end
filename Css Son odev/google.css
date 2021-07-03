@@ -1,0 +1,47 @@
+
+.navbar {
+    margin: auto;
+    height: 70px;
+    background-color: brown;
+}
+
+.section {
+    margin-top: 10px;
+    height: 700px;
+}
+
+.footer {
+    background-color: #f2f2f2;
+    height: 120px;
+}
+
+.google-logo {
+    text-align: center;
+    padding: 10%;
+}
+.search {
+    padding-top: 20px;
+}
+
+
+.nxbsx {
+    text-align:start;
+    border-radius: 24px;
+    margin-top: 20px;
+    width: 280px;
+}
+
+.btn {
+    background-color: #f8f9fa;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    margin: 11px 4px;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    font-size: 14px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+}
